@@ -34,7 +34,7 @@ const item2 = new Item({
   name:"Hit the + Button to add a new item" 
 });
 const item3 = new Item({
-  name:"Bye byeee" 
+  name:"You have no pending work Tickcheck these three items to delete them and add Yourss." 
 });
 
 const  defaultItems = [item1 , item2 , item3];
